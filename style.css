@@ -1,0 +1,17 @@
+.cabecalho-casa, .cabecalho-moda, .dados-padrao {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
+
+.dados-padrao {
+    background-color: #424250;
+}
+
